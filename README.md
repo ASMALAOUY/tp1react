@@ -20,9 +20,14 @@ Elle couvre les bases de React : composants fonctionnels, props et PropTypes.
 - Validation des props avec **PropTypes**
 - Valeurs par défaut avec **defaultProps**
 - Rendu de listes avec `.map()`
-
-![image alt](![Screenshot 2026-03-29 111302](https://github.com/user-attachments/assets/88401c91-4be7-43cf-bcee-c2b98bc04206)
+## demo
+(![Screenshot 2026-03-29 111302](https://github.com/user-attachments/assets/88401c91-4be7-43cf-bcee-c2b98bc04206)
 )
+![Screenshot 2026-03-29 111618](https://github.com/user-attachments/assets/850503b0-3521-4c43-8f4f-0599446cacc0)
+
+![Screenshot 2026-03-29 112117](https://github.com/user-attachments/assets/a847d79d-a599-42d5-89df-0455e8c8bd71)
+![Screenshot 2026-03-29 112354](https://github.com/user-attachments/assets/616e501f-1e2f-448c-82ba-060dc9b2856f)
+
 
 ## Installation et lancement
 ```bash
